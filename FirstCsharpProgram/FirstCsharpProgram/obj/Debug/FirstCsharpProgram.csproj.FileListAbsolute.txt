@@ -1,0 +1,8 @@
+D:\Learn CSharp And Dotnet Framework\CSharp Basic And OOP\FirstCsharpProgram\FirstCsharpProgram\bin\Debug\FirstCsharpProgram.exe.config
+D:\Learn CSharp And Dotnet Framework\CSharp Basic And OOP\FirstCsharpProgram\FirstCsharpProgram\bin\Debug\FirstCsharpProgram.exe
+D:\Learn CSharp And Dotnet Framework\CSharp Basic And OOP\FirstCsharpProgram\FirstCsharpProgram\bin\Debug\FirstCsharpProgram.pdb
+D:\Learn CSharp And Dotnet Framework\CSharp Basic And OOP\FirstCsharpProgram\FirstCsharpProgram\obj\Debug\FirstCsharpProgram.csproj.AssemblyReference.cache
+D:\Learn CSharp And Dotnet Framework\CSharp Basic And OOP\FirstCsharpProgram\FirstCsharpProgram\obj\Debug\FirstCsharpProgram.csproj.SuggestedBindingRedirects.cache
+D:\Learn CSharp And Dotnet Framework\CSharp Basic And OOP\FirstCsharpProgram\FirstCsharpProgram\obj\Debug\FirstCsharpProgram.csproj.CoreCompileInputs.cache
+D:\Learn CSharp And Dotnet Framework\CSharp Basic And OOP\FirstCsharpProgram\FirstCsharpProgram\obj\Debug\FirstCsharpProgram.exe
+D:\Learn CSharp And Dotnet Framework\CSharp Basic And OOP\FirstCsharpProgram\FirstCsharpProgram\obj\Debug\FirstCsharpProgram.pdb
